@@ -1,0 +1,426 @@
+:: StoryTitle
+Project2
+
+
+:: StoryData
+{
+  "ifid": "0E68980C-DA16-4992-868A-B5A4E5CF061E",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+
+:: ? {"position":"975,1350","size":"100,100"}
+Go Back to [[Start]]
+(restart:)
+
+
+:: Blog {"position":"550,175","size":"100,100"}
+[[View blog sent by @Momomomona|Random Blog 5]]
+[[View blog sent by @MelbourneTimesOfficial|Blog 1]]
+[[View blog sent by @UserNotFound|Random Blog 1]]
+[[View blog sent by @marbleLeaf|Blog 2]]
+[[View blog sent by @UserNotFound|Random Blog 2]]
+[[View blog sent by @dancelight333|Blog 3]]
+[[View blog sent by @BubbleBlue|Random Blog 3]]
+[[View blog sent by @Jul's Art's MuseumMelbOfficial|Blog 4]]
+[[View blog sent by @Liveevil|Random Blog 4]]
+(if:(history: where its name contains "Text Message8")'s length >= 1)[[View blog sent by @DarkDevaDerek|Blog 5]]
+(if:(history: where its name contains "Blog 4")'s length >= 1)[[Check @JulianAnderson (museum manager)'s personal page|Blog 6]]
+(if:(history: where its name contains "Text Message13")'s length >= 1)[[Check @melanieflyn (museum secretary)'s personal page|Blog 7]]
+
+Go back to [[Xtter]]
+
+
+:: Blog 1 {"position":"250,575","size":"100,100"}
+<img src=https://i.postimg.cc/C5WBBDkz/image.png width=800 height=500>
+
+Go back to [[Blog]]
+
+
+
+
+:: Blog 2 {"position":"400,625","size":"100,100"}
+<img src=https://i.postimg.cc/zGwbvyBG/image.png width=800 height=500>
+<img src=https://i.postimg.cc/2521dgnp/image.png width=800 height=500>
+
+Go back to [[Blog]]
+
+
+:: Blog 3 {"position":"550,600","size":"100,100"}
+<img src=https://i.postimg.cc/rstzkm3c/image.png width=800 height=500>
+
+Go back to [[Blog]]
+
+
+:: Blog 4 {"position":"725,600","size":"100,100"}
+<img src=https://i.postimg.cc/1RLrNN9G/image.png width=800 height=500>
+
+Go back to [[Blog]]
+
+
+:: Blog 5 {"position":"425,850","size":"100,100"}
+<img src=https://i.postimg.cc/K85PVqtf/image.png width=800 height=500>
+
+Go back to [[Blog]]
+
+
+:: Blog 6 {"position":"700,725","size":"100,100"}
+<img src=https://i.postimg.cc/3R2JS6vJ/image.png width=800 height=200>
+<img src=https://i.postimg.cc/fyZW6Kc7/image.png width=800 height=200>
+<img src=https://i.postimg.cc/BntZ9tKz/image.png width=800 height=200>
+<img src=https://i.postimg.cc/3wvKN69C/image.png width=800 height=200>
+
+Go back to [[Blog]]
+
+
+:: Blog 7 {"position":"375,475","size":"100,100"}
+<img src=https://i.postimg.cc/wxV91D5P/image.png width=800 height=200>
+<img src=https://i.postimg.cc/153sw4Jz/image.png width=800 height=200>
+<img src=https://i.postimg.cc/3Jf7B7cF/image.png width=500 height=600>
+
+Go Back to [[Blog]]
+
+
+:: Browser Search 2 {"position":"1850,450","size":"100,100"}
+[[Cultural reference|Browser Search 2-1]]
+[[History|Browser Search 2-2]]
+(if:(history: where its name contains "Browser Search 2-2")'s length >= 1)[[Baphomet |Browser Search 2-3]]
+
+Go back to [[Googol]]
+
+
+:: Browser Search 2-1 {"position":"1800,675","size":"100,100"}
+Cultural reference
+The Sigil of Baphomet is the official insignia of the Church of Satan. The sigil has been called a "material pentagram" representational of carnality and earthy principles. The Church describes the symbol as the "...preeminent visual distillation of the iconoclastic philosophy of Satanism."
+
+Go back to [[Search about the symbol of the wax seal|Browser Search 2]]
+
+
+:: Browser Search 2-2 {"position":"1900,850","size":"100,100"}
+History
+The familiar goat's head inside an inverted pentagram did not become the foremost symbol of Satanism until the founding of the Church of Satan in 1966. The upper Pentacle includes the concept of an inverted pentagram being a representation of evil and an upright pentagram symbolizing holiness, which originated with the 19th-century French occultist Eliphas Lévi. Anton LaVey, the founder of the Church of Satan based his “Sigil of Baphomet” on this image of Baphomet. 
+<img src=https://i.postimg.cc/KcJyGxxh/image.png width=200 height=200>
+
+Go back to [[Search about the symbol of the wax seal|Browser Search 2]]
+
+
+:: Browser Search 2-3 {"position":"2025,450","size":"100,100"}
+Baphomet 
+The name Baphomet appeared in trial transcripts for the Inquisition of the Knights Templar starting in 1307. Baphomet is a symbol of balance in various occult and mystical traditions, although occasionally purported to be a deity or a demon, composed of binary elements representing the "symbolization of the equilibrium of opposites"half-human and half-animal, male and female, and good and evil, symbolizing the artist's concept of balance, with Baphomet representing the goal of perfect social order.
+
+Go back to [[Search about the symbol of the wax seal|Browser Search 2]]
+
+
+:: Browser Search 3 {"position":"1450,1000","size":"100,100"}
+After a search regarding to the specific type of wax used for the seal, you also discover that it’s the major type of wax used for the figures in the museum’s art figure show.
+
+Go back to [[Googol]]
+
+
+:: Browser search 1 {"position":"1575,625","size":"100,100"}
+This is basically the LinkedIn for the local artist community! 
+All the public profiles shows education, past awards, experience, press coverage and examples of their work
+
+You’ve summarised those informations regarding the artists you can find who received the threatening letters
+
+Ethan Blackwood: 
+specializes in sculptures 
+Competed at wax figure show last year 
+Many awards, including the last 4 year’s top award of the wax figure museum
+
+Zara Nguyen: 
+Painter
+Guest artist invited to the wax figure show last year 
+
+Xavier Santiago: 
+Wax figure sculpture 
+Competed at wax figure show last year, earned 2nd price
+Did not attend some of the past wax figure show. When being questioned by journalists, he suggested that he had a dispute with manager a few years ago about not having his art work allowed on display
+
+Lucas Chen: 
+Photography visual artist
+Photographer at the annual wax figure show 
+
+Aria Patel: 
+Digital artist
+Created posters for the event 
+Creates art for various competitions and organizations 
+Famous 
+
+Though each having different career and cultural background, you easily realised that almost all of them are somehow related to Jul's art museum, especially it’s annually wax figure demonstration.
+
+Go back to [[Googol]]
+
+
+:: Ending 1 {"position":"650,1175","size":"100,100"}
+Ending 1: accuse the wax artist of betraying the community
+You told everyone that @DarkDevaDerek is the one responsible for those threatening letters. You’ve posted their social media account, as well as their actual address. Those who saw your blog can’t wait to go through every detail in the personal blog of @DarkDevaDerek, guessing the dark motivation behind those letters, before @DarkDevaDerek deleted their account and disappeared on the internet. Just a couple of days later, you heard that the artist community has agreed on a march in front of @DarkDevaDerek’s house. Surly, this dude won’t be let go this easily!
+
+[[Next|en1-3]]
+
+
+
+:: Ending 2 {"position":"850,1200","size":"100,100"}
+Ending 2: accuse the museum manager of the threaten letters
+You suggest that the manager of the Jul’s Art’s Museum is responsible or the threatening letters, and presented some seemingly solid clues to back yourself up. People are convinced and go to both the manager’s personal account and the museum’s official account to demand the manager’s retirement. @JulianAnderson soon turned their account private, and the people who managed the museum’s Xtter account appears pretty professional and deleted all aggressive comments. The public, especially the artist community is even further triggered by this and agreed on a march in front of the museum on the very day of the opening ceremony of the museum art show. With no doubt, the ceremony is completely ruined.
+
+[[Next|en1-3]]
+
+
+:: Ending 3 {"position":"500,1350","size":"100,100"}
+Ending 3: accuse the secretary
+Your findings are pretty convincing, and it seems like that a lot of the employees of the museum is pretty unhappy about @melanieflyn anyway, that they can’t wait to jump out and support your accuse. Who cares whether their testify are true? Surly this guy must be somehow problematic if this much people hate her right?
+Anyway, now that @melanieflyn has to face the rage of the entire artist community, to avoid disturbance towards the upcoming art show, she is fired by the museum. Just to add on to her miserable, the community has also agreed on a march in front of her house. Police is calling for the public to stay rational, and announce that they’re currently investigating the case, and before any result comes out, it will be considered as an act of defamation for anyone to further accuse @melanieflyn of the crime.
+But again, who cares?
+
+[[Next|en1-3]]
+
+
+:: Ending 4 {"position":"1475,1175","size":"100,100"}
+Ending 4: report to police
+You’ve handed what you’ve found to the police. The officer thanks you for your contribution, and for not acting irrationally on the internet. They guarantee you that they’ll look into it again, and will contact you regarding to updates of the case. There’s no much thing left for you to do at the moment, apart from wait. Only time will reveal how this investigation will come to an end in the hand of officials.
+On the other hand, not all of your fans seem to be satisfied with what you did. It appeared that not all of them cared about actually finding the committer. Some are just there to see drama and get none. This disappointment results in a decrease in your followers. But you still think you’ve done the right thing. That’s all that matters to you.
+
+[[Next|en4]]
+
+
+:: Googol {"position":"1675,225","size":"100,100"}
+Googol
+[[Search the public portfolio of affected artists|Browser search 1]] 
+(if:(history: where its name contains "Text Message6")'s length >= 1 or (history: where its name contains "Blog 1")'s length >= 1)[[Search about the symbol of the wax seal|Browser Search 2]]
+(if:(history: where its name contains "Blog 1")'s length >= 1)[[Search about the brand of wax used for the seal|Browser Search 3]]
+
+Go back to [[Main]]
+
+
+:: Main {"position":"1200,125","size":"100,100"}
+Main
+[[Xtter]]
+[[Googol]]
+
+
+
+:: Personal blog 2.1 {"position":"700,400","size":"100,100"}
+<img src=https://i.postimg.cc/43S9kry6/image.png width=800 height=500>
+
+
+[[Ending 1]]
+
+
+:: Personal blog 2.2 {"position":"800,975","size":"100,100"}
+<img src=https://i.postimg.cc/HnQcMn2z/image.png width=800 height=500>
+
+[[Ending 2]]
+
+
+:: Personal blog 2.3 {"position":"1150,600","size":"100,100"}
+<img src=https://i.postimg.cc/Lswn0LQv/image.png width=800 height=500>
+
+Go back to [[Send Blog]]
+
+
+
+:: Personal blog 3.3 {"position":"550,975","size":"100,100"}
+<img src=https://i.postimg.cc/6qNTBwXv/image.png width=800 height=500>
+
+[[Ending 3]]
+
+
+:: Personal blog 3.4 {"position":"1025,1000","size":"100,100"}
+<img src=https://i.postimg.cc/SNdjbwtn/image.png width=800 height=500>
+
+[[Ending 4]]
+
+
+:: Personal blog1 {"position":"925,475","size":"100,100"}
+<img src=https://i.postimg.cc/5yvvmnxw/image.png width=800 height=500>
+
+Go Back to [[Send Blog]] 
+
+
+:: Random Blog 1 {"position":"75,375","size":"100,100"}
+<img src=https://i.postimg.cc/gknHxHFk/image.png width=800 height=500>
+
+Go Back to [[Blog]]
+
+
+:: Random Blog 2 {"position":"125,675","size":"100,100"}
+<img src=https://i.postimg.cc/hP6bTQc8/image.pngwidth=800 height=500>
+
+Go Back to [[Blog]]
+
+
+:: Random Blog 3 {"position":"150,825","size":"100,100"}
+<img src=https://i.postimg.cc/MHXVjqLr/image.png width=800 height=500>
+
+Go Back to [[Blog]]
+
+
+:: Random Blog 4 {"position":"375,1000","size":"100,100"}
+<img src=https://i.postimg.cc/PqhDQmcD/image.png width=800 height=500>
+
+Go Back to [[Blog]]
+
+
+:: Random Blog 5 {"position":"250,1000","size":"100,100"}
+<img src=https://i.postimg.cc/R0RHsW5D/image.png width=800 height=500>
+
+Go Back to [[Blog]]
+
+
+:: Recieve Message {"position":"1250,250","size":"100,100"}
+(if:(history: where its name contains "Personal blog1")'s length >= 1)[[[Recieve message sent by @DippieDuck|Text Message1]]
+[[Recieve message sent by @CoffeePlz:(|Text Message2]]
+[[Recieve message sent by @TruelyPhenomenon|Text Message4]]
+[[Recieve message sent by @Eyeyeye|Text Message5]]
+[[Recieve message sent by @.|Text Message6]]]
+(if:(history: where its name contains "Personal blog 2.3")'s length >= 1)[[Recieve message sent by @iaushefwlAUFehiuwe|Text Message12]]
+(if:(history: where its name contains "Personal blog 2.3")'s length >= 1)[[Recieve message sent by @fanntaisie|Text Message13]]
+
+Go back to [[Xtter]]
+
+
+:: Send Blog {"position":"975,225","size":"100,100"}
+Send Blog
+[[Send blog to tell your fans you're looking into this threatening letters|Personal blog1]]
+(if:(history: where its name contains "Blog 3")'s length >= 1 and (history: where its name contains "Personal blog1")'s length >= 1 and (history: where its name contains "Text Message8")'s length >= 1 )[[Send blog to tell your fans @darkdevaderek is responsible|Personal blog 2.1]]
+(if:(history: where its name contains "Text Message10")'s length >= 1 and (history: where its name contains "Personal blog1")'s length >= 1)[[Send blog to tell your fans the museum's manager is responsible|Personal blog 2.2]]
+(if:(history: where its name contains "Text Message10")'s length >= 1 and (history: where its name contains "Personal blog1")'s length >= 1)[[Send blog to ask for information regarding to the museum|Personal blog 2.3]]
+(if:(history: where its name contains "Blog 7" and (history: where its name contains "Personal blog1")'s length >= 1)'s length >= 1 and (history: where its name contains "Blog 2")'s length >= 1)[[Send blog to tell your fans the museum's secretary is responsible|Personal blog 3.3]]
+(if:(history: where its name contains "Text Message13")'s length >= 1 and (history: where its name contains "Personal blog1")'s length >= 1)[[Hand the clues you have to the police|Personal blog 3.4]]
+
+Go back to [[Xtter]]
+
+
+:: Send Message {"position":"1450,175","size":"100,100"}
+(if:(history: where its name contains "Personal blog1")'s length >= 1)[[Send messages to affected artists|Text Message7]]
+(if:(history: where its name contains "Blog 3")'s length >= 1)[[Send messages to @dancelight333(neighbour)|Text Message8]]
+(if:(history: where its name contains "Text Message8")'s length >= 1)[[Send messages to @DarkDevaDerek(suspicious artist)|Text Message9]]
+(if:(history: where its name contains "Blog 4")'s length >= 1 and ((history: where its name contains "Browser search 1")'s length >= 1 or (history: where its name contains "Text Message7")'s length >= 1))[[Send messages to @melanieflyn(museum secretary)|Text Message10]]
+(if:(history: where its name contains "Blog 7")'s length >= 1)[[Send messages to @melanieflyn(museum secretary) again|Text Message11]]
+
+Go back to [[Xtter]]
+
+
+:: Start {"position":"1200,0","size":"100,100"}
+<img src=https://i.postimg.cc/900KHxZh/ID-start.png width=800 height=500>
+
+[[Next|Main]]
+
+
+:: Text Message1 {"position":"1450,700","size":"100,100"}
+<img src=https://i.postimg.cc/76djpYSg/image.png width=800 height=500>
+
+Go back to [[Recieve Message]]
+
+
+:: Text Message10 {"position":"1450,550","size":"100,100"}
+<img src=https://i.postimg.cc/zf0rPrdj/image.png width=800 height=500>
+<img src=https://i.postimg.cc/LhKKZ6XH/image.png width=800 height=500>
+<img src=https://i.postimg.cc/28h391n7/image.png width=800 height=500>
+<img src=https://i.postimg.cc/GmRtWbQw/image.png width=800 height=500>
+
+Go back to [[Send Message]] 
+
+
+:: Text Message11 {"position":"1675,500","size":"100,100"}
+<img src=https://i.postimg.cc/XYgq3tHZ/image.png width=800 height=500>
+<img src=https://i.postimg.cc/W3xbXV3y/image.png width=800 height=500>
+<img src= https://i.postimg.cc/nhnVd0Fn/image.png width=800 height=500>
+
+Go back to [[Send Message]]
+
+
+:: Text Message12 {"position":"1200,1150","size":"100,100"}
+<img src=https://i.postimg.cc/qBc9m0zC/image.png width=800 height=500>
+
+Go Back to [[Recieve Message]] 
+
+
+:: Text Message13 {"position":"1025,1225","size":"100,100"}
+<img src=https://i.postimg.cc/RZY83Zb2/image.png width=800 height=500>
+<img src=https://i.postimg.cc/sDD0whkt/image.png width=800 height=500>
+<img src=https://i.postimg.cc/LX3NV9N9/image.png width=800 height=500>
+<img src=https://i.postimg.cc/7hB9pKFj/image.png width=800 height=500>
+<img src=https://i.postimg.cc/SK0dF2PQ/image.png width=800 height=500>
+<img src=https://i.postimg.cc/qR4Ggf09/image.png width=800 height=500>
+
+Go Back to [[Recieve Message]] 
+
+
+:: Text Message2 {"position":"1175,825","size":"100,100"}
+<img src=https://i.postimg.cc/HkX9TWXp/image.png width=800 height=500>
+
+Go back to [[Recieve Message]]
+
+
+:: Text Message4 {"position":"1225,675","size":"100,100"}
+<img src=https://i.postimg.cc/13sbxdVY/image.png width=800 height=500>
+
+Go back to [[Recieve Message]]
+
+
+:: Text Message5 {"position":"850,775","size":"100,100"}
+<img src=https://i.postimg.cc/zXRnkDdn/image.png width=800 height=500>
+
+Go back to [[Recieve Message]]
+
+
+:: Text Message6 {"position":"975,775","size":"100,100"}
+<img src=https://i.postimg.cc/Wpyy33Fr/image.png width=800 height=500>
+
+
+Go back to [[Recieve Message]]
+
+
+:: Text Message7 {"position":"1550,425","size":"100,100"}
+You message multiple artists who say they received the threatening letter for more detail, regarding to both the letter and themselves.
+After the conversation, you becomes quite certain that those letters all comes from the same individual, since the writing habit is constant, and all the letters uses a wax seal of a special texture.
+On the other hand, you found very limited comment traits between the victims. They range from indoor designers, visual designers, wax figure artists, and musicians. The only comment trait is that they have all, at some point, worked with a museum called Jul's art museum in preparation for an upcoming wax figure show.
+
+
+Go back to [[Send Message]]
+
+
+:: Text Message8 {"position":"1325,750","size":"100,100"}
+<img src=https://i.postimg.cc/cCGXRKQ5/image.png width=800 height=500>
+<img src=https://i.postimg.cc/d3Z4d2kC/image.png width=800 height=500>
+<img src=https://i.postimg.cc/7YVmzZbm/image.png width=800 height=500>
+
+Go back to [[Send Message]]
+
+
+:: Text Message9 {"position":"1275,500","size":"100,100"}
+<img src=https://i.postimg.cc/htZsCZLm/image.png width=800 height=500>
+<img src=https://i.postimg.cc/q7tLWcw5/image.png width=800 height=500>
+<img src=https://i.postimg.cc/GpZQRBSh/image.png width=800 height=500>
+<img src=https://i.postimg.cc/63nhp9DV/image.png width=800 height=500>
+<img src=https://i.postimg.cc/PrtMdnKZ/image.png width=800 height=500>
+
+Go back to [[Send Message]] 
+
+
+:: Xtter {"position":"775,125","size":"100,100"}
+Xtter
+[[Blog]] (if:(history: where its name contains "Blog 1")'s length is 0 or (history: where its name contains "Blog 2")'s length is 0 or (history: where its name contains "Blog 3")'s length is 0 or (history: where its name contains "Blog 4")'s length is 0 or ((history: where its name contains "Text Message8")'s length >= 1 and (history: where its name contains "Blog 5")'s length is 0) or ((history: where its name contains "Blog 4")'s length >= 1 and (history: where its name contains "Blog 6")'s length is 0) or ((history: where its name contains "Text Message13")'s length >= 1 and (history: where its name contains "Blog 7")'s length is 0))[new!]
+[[Send Blog]]
+[[Recieve Message]](if:(history: where its name contains "Personal blog1")'s length >= 1 and ((history: where its name contains "Text Message1")'s length is 0 or (history: where its name contains "Text Message2")'s length is 0 or (history: where its name contains "Text Message4")'s length is 0 or (history: where its name contains "Text Message5")'s length is 0 or (history: where its name contains "Text Message6")'s length is 0) or ((history: where its name contains "Personal blog 2.3")'s length >= 1 and (history: where its name contains "Text Message12")'s length is 0) or ((history: where its name contains "Personal blog 2.3")'s length >= 1 and (history: where its name contains "Text Message13")'s length is 0))[new!]
+[[Send Message]]
+
+Go back to [[Main]]
+
+
+:: en1-3 {"position":"775,1425","size":"100,100"}
+<img src=https://i.postimg.cc/K8KbpwXS/image.png width=800 height=500>
+
+[[Start Again|?]]
+
+
+:: en4 {"position":"1225,1350","size":"100,100"}
+<img src=https://i.postimg.cc/JnQCBWXJ/image.png width=800 height=500>
+
+[[Start Again|?]]
+
